@@ -36,7 +36,32 @@ https://www.youtube.com/watch?v=rycsXRO6rpI
 
 
 # 3rd Deliverable 
+Αρχικά προσθεσα colliders  στην πίστα και την οριοθέτησα την πίστα για να μην μπορεί να βγάνει ο παίχτης έξω από το γκαζόν
 
+Έβαλα animation όταν πεθαίνουν οι κακοί
+Και animation τραυματισμου στον χαρακτηρα και στους κακους
+
+Έκανα ένα μενού επιλογής για τις δύο πίτσες
+![Gamefinal - SampleScene - WebGL - Unity 2021 3 11f1 Personal _DX11_ 15_1_2023 11_24_50 μμ](https://user-images.githubusercontent.com/117848254/212568208-d493a626-835d-42fe-b918-8f15b6a298ca.png)
+
+Η πρώτη πίστα 
+![Gamefinal - map 1 - WebGL - Unity 2021 3 11f1 Personal _DX11_ 15_1_2023 11_34_48 μμ](https://user-images.githubusercontent.com/117848254/212568607-0ab2a5e5-7f32-4fae-9c03-67b42788bcbb.png)
+
+Η δεύτερη πίστα
+
+![Gamefinal - map 1 - WebGL - Unity 2021 3 11f1 Personal _DX11_ 15_1_2023 11_42_47 μμ](https://user-images.githubusercontent.com/117848254/212568849-1983bf55-3046-4e3e-874f-7da9da620c8d.png)
+
+Πρόσθεσα teleport  που είναι αυτή η πόρτα βρίσκετε πάνω δεξια στην  δεύτερη πίτσα. Ενεργοποιείτε όταν είσαι από την άριστη πλευρά της πορτας  και πατώντας το spacebar για να δώσω μία αίσθηση ρεαλισμου στον τρόπο που "μπαίνεις" στην πόρτα
+![Gamefinal - map 1 - WebGL - Unity 2021 3 11f1 Personal _DX11_ 15_1_2023 11_46_21 μμ (2)](https://user-images.githubusercontent.com/117848254/212569015-f9e7db74-3abf-4a48-9f6f-42ffa100cbc6.png)
+
+
+
+Η πόρτα μένει ανοιχτή αν την χρησιμοποιήσει μία φορά ή περισσότερες ο παίκτης
+![Gamefinal - map 1 - WebGL - Unity 2021 3 11f1 Personal _DX11_ 15_1_2023 11_58_31 μμ (2)](https://user-images.githubusercontent.com/117848254/212569536-2b8a65b8-bd77-47da-9faa-c8da997bcae9.png)
+
+
+Έβαλα  score  που ανεβαίνει όσο συλλέγεις τα  χρυσά νομίσματα 
+Και έφτιαξα το  health bar να δουλεύει δηλαδή να χάνει ζωή ο χαρακτήρας όταν τον πυροβολούν
 
 # Conclusions
 
